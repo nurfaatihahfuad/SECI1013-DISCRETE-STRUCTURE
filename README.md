@@ -1,1 +1,2 @@
 # SECI1013-DISCRETE-STRUCTURE
+This course introduces the principles and applications of discrete structures in computer science, covering set theory, proof techniques, relations, functions, recurrence relations, counting methods, graph theory, trees, and finite automata. By the end, students will solve problems using set theory, relations, and functions; analyze and apply recurrence relations and counting methods; use graph theory and trees for real-world applications; and model problems and electronic devices with finite automata.
